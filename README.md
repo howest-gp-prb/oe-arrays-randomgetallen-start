@@ -25,3 +25,7 @@ Wanneer je op btnVersion2Add klikt dienen de getallen uit de eerste 2 kolommen v
 Hetzelfde gebeurt wanneer je op btnVersion2Multiply klikt, maar nu worden de getallen uit de eerste 2 kolommen met elkaar vermenigvuldigd.
 Uiteraard toon je nu ook telkens de resultaten in de listbox.
 
+![alt text](arrays-randomgetallen.gif)  
+
+Ter info : van zodra we lussen hebben behandeld hernemen we deze oefening en zal je merken dat dit allemaal veel korter kan!
+
